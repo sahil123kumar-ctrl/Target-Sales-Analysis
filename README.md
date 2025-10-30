@@ -1,6 +1,6 @@
 # Target-Sales-Analysis
 
-###Project Overview
+### Project Overview
 
 This project analyzes Target Corporation’s sales performance, customer behavior, and operational efficiency using SQL for data processing and Power BI for visualization.
 The goal is to extract meaningful business insights, track performance trends, and recommend strategies to boost sales and customer satisfaction.
