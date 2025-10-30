@@ -1,17 +1,17 @@
 # Target-Sales-Analysis
 
-Project Overview
+###Project Overview
 
 This project analyzes Target Corporation’s sales performance, customer behavior, and operational efficiency using SQL for data processing and Power BI for visualization.
 The goal is to extract meaningful business insights, track performance trends, and recommend strategies to boost sales and customer satisfaction.
 
 
-About Target Corporation
+### About Target Corporation
 
 Target is one of the largest retail companies in the U.S., offering products across categories like apparel, electronics, groceries, home essentials, and beauty items.
 The company focuses on quality, affordability, and omnichannel convenience, operating both physical stores and digital platforms.
 
-Dataset Description
+### Dataset Description
 
 The dataset simulates Target’s e-commerce ecosystem between September 2016 – October 2018, including:
 | Table Name      | Description                                             |
@@ -30,11 +30,14 @@ The dataset simulates Target’s e-commerce ecosystem between September 2016 –
 Tools & Technologies
 
 1.SQL – Data cleaning, joining, aggregation, and KPI generation
+
 2.Power BI – Data modeling, DAX measures, and dashboard creation
+
 3.Excel / CSV – Data import and validation
+
 4.GitHub – Version control and project sharing
 
-Conclusion:
+### Conclusion:
 
 | Area                       | Objective                 | Key Insights                                                                                       |
 | -------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -47,32 +50,48 @@ Conclusion:
 | **Seller Insights**        | Assess seller performance | Top sellers excel; others show **high cancellation rates** affecting trust.                        |
 
 
-Recommendations to Boost Sales
+### Recommendations to Boost Sales
 
 1.Leverage Seasonal Peaks – Plan major Black Friday and holiday campaigns with discounts, bundles, and free shipping.
+
 2.Expand Beyond SP Region – Target new states with localized marketing and faster delivery.
+
 3.Enhance Logistics – Optimize routes in high-delay regions; set SLA-based incentives for sellers.
+
 4.Strengthen Customer Retention – Launch loyalty programs and personalized offers for repeat buyers.
+
 5.Boost Product Visibility – Promote high-rated but low-sales products via featured listings or ads.
+
 6.Improve Low-Rated Categories – Review Insurance & Services issues and enhance service quality.
+
 7.Ensure Payment Accuracy – Automate reconciliation to fix mismatched payment records.
+
 8.Support Sellers – Train underperformers and reward high-performing sellers.
+
 9.Timing of Promotions – Run night-time flash sales when order volume peaks.
 
 
-Power BI Dashboard Highlights
+### Power BI Dashboard Highlights
 
 1.Monthly sales and revenue trends
+
 2.Top product categories and regions
+
 3.Customer & seller geographic maps
+
 4.Delivery performance KPIs
+
 5.Review score distribution
+
 6.Payment mode breakdown
 
-Learnings
+
+### Learnings
 
 1.Integrated SQL + Power BI for complete data analysis workflow
+
 2.Designed DAX measures for KPIs like revenue, delivery days, and payment differences
+
 3.Interpreted customer, seller, and logistics data to create actionable business recommendations
 
 
