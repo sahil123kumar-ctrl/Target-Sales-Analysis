@@ -82,5 +82,3 @@ The dataset simulates Target’s **e-commerce operations between September 2016 
 ---
 
 
-[LinkedIn / Portfolio link here]  
-[Email if you wish to include]
